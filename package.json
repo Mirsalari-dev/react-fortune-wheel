@@ -1,0 +1,46 @@
+{
+  "name": "react-fortune-wheel",
+  "version": "1.0.0",
+  "description": "A customizable React spinning wheel component with weighted random selection - control the probability/chance percentage of each item",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "react",
+    "wheel",
+    "spinner",
+    "lucky-wheel",
+    "fortune-wheel",
+    "spin-wheel",
+    "prize-wheel",
+    "typescript",
+    "weighted-random",
+    "weighted-selection",
+    "probability",
+    "chance",
+    "percentage"
+  ],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "typescript": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
