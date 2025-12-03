@@ -1,6 +1,6 @@
 {
   "name": "react-fortune-wheel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A customizable React spinning wheel component with weighted random selection - control the probability/chance percentage of each item",
   "main": "dist/index.js",
   "module": "dist/index.js",
