@@ -41,6 +41,10 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
-  }
+    "url": "https://github.com/Mirsalari-dev/react-fortune-wheel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mirsalari-dev/react-fortune-wheel/issues"
+  },
+  "homepage": "https://github.com/Mirsalari-dev/react-fortune-wheel#readme"
 }
